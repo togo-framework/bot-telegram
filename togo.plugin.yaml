@@ -1,0 +1,19 @@
+name: bot-telegram
+module: github.com/togo-framework/bot-telegram
+description: Telegram driver for the togo bot subsystem (long-polling via go-telegram-bot-api).
+version: 0.1.0
+category: bot
+kind: driver
+base: togo-framework/bot
+import: github.com/togo-framework/bot-telegram
+env:
+  - name: BOT_DRIVER
+    description: Set to "telegram" to activate this driver.
+    required: true
+  - name: TELEGRAM_BOT_TOKEN
+    description: Bot token from @BotFather.
+    required: true
+  - name: TELEGRAM_POLL_TIMEOUT
+    description: Long-poll timeout in seconds (default 30).
+    required: false
+claude: .claude

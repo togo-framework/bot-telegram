@@ -1,0 +1,8 @@
+github.com/go-chi/chi/v5 v5.1.0 h1:acVI1TYaD+hhedDJ3r54HyA6sExp3HfXq7QWEEY/xMw=
+github.com/go-chi/chi/v5 v5.1.0/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1 h1:wG8n/XJQ07TmjbITcGiUaOtXxdrINDz1b0J1w0SzqDc=
+github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1/go.mod h1:A2S0CWkNylc2phvKXWBBdD3K0iGnDBGbzRpISP2zBl8=
+github.com/togo-framework/bot v0.1.0 h1:t41ECxVt97OYIef9mAGXdJr1KIYErfHl1bxygh0BGKI=
+github.com/togo-framework/bot v0.1.0/go.mod h1:2Pdt9b8igxFN7/1WhCPuEGdJlhofM2QtPpEcZbEO1lY=
+github.com/togo-framework/togo v0.20.1 h1:sygmzwKZ2WBYlxxFk+SaCcZgAKp0LtjA4cHcdcoGR4g=
+github.com/togo-framework/togo v0.20.1/go.mod h1:/ybNefL1VWo0Pod32+YwW7ZgyInyXzOq3jGPBjUJYtc=
